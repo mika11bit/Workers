@@ -7,7 +7,7 @@ class App extends React.Component {
     let data = [
       {
         name: "Mika",
-        job: "programmer"
+        job: "junior"
       },
       {
         name: "Ivan",
