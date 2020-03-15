@@ -6,7 +6,7 @@ class App extends React.Component {
   render() {
     let data = [
       {
-        name: "Mykola",
+        name: "Mika",
         job: "programmer"
       },
       {
